@@ -1,0 +1,6 @@
+"registered user, bonus under Limit",100060,true,500
+"shouldCalculateForRegisteredAndUnderLimit",1400,true,42
+"shouldCalculateForRegisteredAndOverLimit",20000,true,500
+"shouldCalculateForNoRegisteredAndUnderLimit",1400,false,14
+"shouldCalculateForNoRegisteredAndOverLimit",50000,false,500
+"shouldCalculateForRegisteredAndUnderLimit1",16635,true,499
